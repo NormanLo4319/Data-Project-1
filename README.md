@@ -10,6 +10,6 @@ Doing data exploration through various of plots.
 Section 3:
 Create analytic plots.
 
-
 Section 4:
-Resolve git conflict.
+Create a git conflict. Resolve git conflict.
+
