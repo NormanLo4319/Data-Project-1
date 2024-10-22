@@ -9,3 +9,4 @@ Doing data exploration through various of plots.
 
 Section 3:
 Create analytic plots.
+
