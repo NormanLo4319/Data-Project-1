@@ -8,4 +8,5 @@ Section 2:
 Doing data exploration through various of plots. 
 
 Section 3:
-Create analytic table.
+Create analytic plots.
+
