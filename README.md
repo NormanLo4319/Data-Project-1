@@ -6,3 +6,6 @@ Describe the data through EDA.
 
 Section 2:
 Doing data exploration through various of plots. 
+
+Section 3:
+Create analytic table.
