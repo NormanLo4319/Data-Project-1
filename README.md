@@ -11,4 +11,5 @@ Section 3:
 Create analytic plots.
 
 Section 4:
-Create a git conflict.
+Create a git conflict. Resolve git conflict.
+
